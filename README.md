@@ -1,7 +1,9 @@
 # ParImparPython
 
 Jogo de par e ímpar, onde:
+
 O computador:
+
 - Pergunta o nome do usuário e envia uma mensagem de boas vindas com o nome do usuário.
 - Escolhe um número entre 0 e 10 para ele, sem revelar ao usuário.
 - Solicita para o usuário digitar/escolher: 1 para Ímpar ou 2 para Par.
